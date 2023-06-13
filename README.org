@@ -1,0 +1,10 @@
+* simple-currency
+
+simple-currency is a Common Lisp library which converts between currencies using foreign exchange information published daily by the ECB
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/a0-prw/simple-currency.git   |
+| commit  | 4619dc6  |
+| systems | simple-currency |
+|---------+-------------------------------------------|
+
